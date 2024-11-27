@@ -17,14 +17,15 @@ Access the live demo here (https://dorothyoteng.github.io/customer-service-chatb
 ## Technologies Used
 - HTML: Integrated Chatbase scripts into a static webpage.
 - JavaScript: Handled the embedding and chatbot configuration.
-- Chatbase: Configured chatbot responses and tested it's accuracy.
+- Chatbase: Configured chatbot responses and tested their accuracy.
 - GitHub Pages: Hosted the chatbot for live deployment.
 
 ## Contributions
-- Configured chatbot responses in Chatbase for 10+ common customer inquiries.
-- Embedded the chatbot into the webpage using Chatbase's provided script.
-- Tested and iterated on the chatbot for accurate responses to user queries.
-- Deployed the project on GitHub Pages, ensuring accessibility.
+- Configured chatbot responses in Chatbase for 10+ common customer service inquiries, including order tracking, return policies, and account assistance.
+- Integrated the chatbot into a webpage using Chatbase-provided scripts, HTML, and JavaScript.
+- Tested the chatbot’s responses to ensure accuracy and refined configurations via the Chatbase dashboard.
+- Deployed the chatbot to GitHub Pages, ensuring public accessibility and usability.
+Note: As Chatbase is a no-code platform, much of the chatbot logic was configured through its dashboard, not via custom scripts. This project demonstrates my ability to integrate, test, and deploy pre-built chatbot solutions.
 
 ## How to Use
 1. Open the live demo (https://dorothyoteng.github.io/customer-service-chatbot/index.html).
